@@ -10,7 +10,7 @@
   {{- with (.Get "dir") -}} 
   {{- $files := readDir (print "/static/" .) }} 
   {{- range $files -}} 
-  {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
+  {{- $absoluteUrl := print site.BaseURL ($.Get "dir") "/" .Name }}
   <div class="carousel-cell">
     <img src="{{ $absoluteUrl }}" />
   </div>
