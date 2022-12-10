@@ -1,4 +1,4 @@
-baseURL = 'https://cctechwiz.github.io/bookshore/'
+baseURL = 'www.bookshore.art'
 languageCode = 'en-us'
 title = 'Book Shore'
 theme = 'ananke'
