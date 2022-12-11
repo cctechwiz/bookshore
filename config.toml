@@ -1,4 +1,4 @@
-baseURL = 'bookshore.art'
+baseURL = 'https://bookshore.art'
 languageCode = 'en-us'
 title = 'Book Shore'
 theme = 'ananke'
