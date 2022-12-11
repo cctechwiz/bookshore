@@ -1,6 +1,6 @@
 ---
 title: "Mystery of the Blue Flame"
-date: 2022-12-01T16:52:43-07:00
+date: 2022-12-01
 featured_image: '/coming-soon.jpg'
 ---
 
