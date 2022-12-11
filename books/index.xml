@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Book Shore</title>
-    <link>bookshore.art/books/</link>
+    <link>https://bookshore.art/books/</link>
     <description>Recent content in Books on Book Shore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 16:52:43 -0700</lastBuildDate><atom:link href="bookshore.art/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 16:52:43 -0700</lastBuildDate><atom:link href="https://bookshore.art/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ankylosaurus Pineapple Party</title>
-      <link>bookshore.art/books/ankylosaurus-pineapple-party/</link>
+      <link>https://bookshore.art/books/ankylosaurus-pineapple-party/</link>
       <pubDate>Wed, 30 Nov 2022 16:52:43 -0700</pubDate>
       
-      <guid>bookshore.art/books/ankylosaurus-pineapple-party/</guid>
+      <guid>https://bookshore.art/books/ankylosaurus-pineapple-party/</guid>
       <description> </description>
     </item>
     
